@@ -10,3 +10,15 @@ Data Link:
 
 
 https://zenodo.org/record/5636429#.YbTW-L3MKUk
+
+
+Background Information:
+
+
+https://news.ucr.edu/articles/2021/12/08/wildfire-dataset-could-help-firefighters-save-lives-and-property
+
+
+https://ayanmukhopadhyay.github.io/files/neurips2021.pdf
+
+
+http://raptor.cs.ucr.edu/wildfiredb/?_ga=2.123142543.586678094.1639241446-397316975.1639241446
